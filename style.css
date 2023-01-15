@@ -242,10 +242,7 @@ header{
   /* responsive design for mobile  */
 
   @media only screen and (max-width: 688px){
-              header{
-                margin: 0;
-                width: 100%;
-              }
+              
              .nav-menu{
               flex-direction: column;
              }
