@@ -5,9 +5,6 @@
     box-sizing: border-box;
     font-family: 'Work Sans', sans-serif;
 }
-body{
-  overflow-x: hidden;
-}
   /* nav-menubar */
 header{
     background-color: rgba(255, 144, 14, 0.1);
@@ -57,7 +54,7 @@ header{
     border-radius: 8px;
   }
   .banner-image{
-    width: 80%;
+    width: 1440px;
     height: 700px;
     margin: 3.4rem 22.5rem 7rem 7.4rem;
   }
